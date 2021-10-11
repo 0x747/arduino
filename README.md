@@ -4,7 +4,7 @@
 
 1. Arduino IDE
 
-- Install for Ubuntu/Debian
+- Install for Ubuntu/Debian<br>
 a. Download the file from [here](https://www.arduino.cc/en/software)<br>
 b. Extract the contents of the archive<br>
 c. Install by running the `install` script
